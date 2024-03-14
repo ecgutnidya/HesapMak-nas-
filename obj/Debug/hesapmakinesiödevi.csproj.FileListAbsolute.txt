@@ -1,0 +1,11 @@
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\bin\Debug\hesapmakinesiödevi.exe.config
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\bin\Debug\hesapmakinesiödevi.exe
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\bin\Debug\hesapmakinesiödevi.pdb
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.csproj.AssemblyReference.cache
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.Form1.resources
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.Properties.Resources.resources
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.csproj.GenerateResource.cache
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.csproj.CoreCompileInputs.cache
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.exe
+C:\Users\TUĞÇE\source\repos\hesapmakinesiödevi\hesapmakinesiödevi\obj\Debug\hesapmakinesiödevi.pdb
